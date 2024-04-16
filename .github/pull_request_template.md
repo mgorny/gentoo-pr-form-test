@@ -1,3 +1,7 @@
+<!-- Please put the pull request description above -->
+
+---
+
 Please check all the boxes that apply:
 
 - [ ] I can submit this contribution in agreement with the [Copyright Policy](https://www.gentoo.org/glep/glep-0076.html#certificate-of-origin).
@@ -6,7 +10,3 @@ Please check all the boxes that apply:
 - [ ] I have run `pkgcheck scan --commits --net` to check for issues with my commits.
 
 Please note that all boxes must be checked for the pull request to be merged.
-
----
-
-<!-- Please put the pull request description here -->
